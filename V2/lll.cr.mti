@@ -1,0 +1,132 @@
+C:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegistreInstruction
+-- Compiling architecture Behavioral of RegistreInstruction
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity controler
+-- Compiling architecture Behavioral of controler
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mux2to1
+-- Compiling architecture Behavioral of Mux2to1
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DM
+-- Compiling architecture Behavioral of DM
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/PC.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\mhabb\Downloads\RISC-V\V2\PC.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PC
+-- Compiling architecture Behavioral of PC
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/ImmExt.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\mhabb\Downloads\RISC-V\V2\ImmExt.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ImmExt
+-- Compiling architecture Behavioral of ImmExt
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity controller_fsm_5
+-- Compiling architecture Behavioral of controller_fsm_5
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_RISCV_Top_DM1
+-- Compiling architecture Behavioral of tb_RISCV_Top_DM1
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SM
+-- Compiling architecture Behavioral of SM
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity imem
+-- Compiling architecture Behavioral of imem
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd(59): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd(60): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd(61): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem.vhd(67): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RISCV_Top_DM1
+-- Compiling architecture Behavioral of RISCV_Top_DM1
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity imem
+-- Compiling architecture Behavioral of imem
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd(52): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd(53): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd(54): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+** Warning: C:/Users/mhabb/Downloads/RISC-V/V2/imem_sync.vhd(60): (vcom-1283) Cannot reference file "f" inside pure function "memInit".
+
+} {} {}} C:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterFile
+-- Compiling architecture Behavioral of RegisterFile
+
+} {} {}}

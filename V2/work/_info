@@ -1,0 +1,537 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mhabb/Downloads/RISC-V/V2
+Ealu
+Z1 w1768951923
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd
+Z6 FC:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd
+l0
+L5
+Vz_OP5i`d06kZF_UIF_mlN1
+!s100 @Jf0LI0>3Je22jk2:HEVj0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1769368701
+!i10b 1
+Z9 !s108 1769368701.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd|
+Z11 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/ALU.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 z_OP5i`d06kZF_UIF_mlN1
+l29
+L16
+V4[MH0DHDgA_5oLV>WHkQg0
+!s100 [PJXMDY@WOe2JU2?fZSo80
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtroler
+R1
+R2
+R3
+R4
+R0
+Z14 8C:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd
+Z15 FC:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd
+l0
+L5
+VeiNm@UI[g=AikjjE2Cg0d2
+!s100 KoAd;[:KFb;HV<QO<jUDj0
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd|
+Z17 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/controler.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 9 controler 0 22 eiNm@UI[g=AikjjE2Cg0d2
+l40
+L23
+V9NCn@H6DjO@`g`kP`X9ek1
+!s100 _7>7Nc8XgR]ESR=8OYhbY2
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+R13
+Econtroller_fsm_5
+Z18 w1769367352
+R3
+R4
+R0
+Z19 8C:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd
+Z20 FC:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd
+l0
+L4
+V<`;[EObVliGI2b_4S1I=l2
+!s100 1>YXiSRkZ4R:bF>cf[6I_1
+R7
+32
+R8
+!i10b 1
+R9
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd|
+Z22 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/controller_fsm_5.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 16 controller_fsm_5 0 22 <`;[EObVliGI2b_4S1I=l2
+l17
+L14
+VZlfCGbfKm0_Z9`jQ6BoFl3
+!s100 UhzzCK3lV?FmMfiZZi42a1
+R7
+32
+R8
+!i10b 1
+R9
+R21
+R22
+!i113 1
+R12
+R13
+Edm
+R1
+R2
+R3
+R4
+R0
+Z23 8C:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd
+Z24 FC:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd
+l0
+L5
+VSRRMz]oP9OX<K5N:mcDNb1
+!s100 z=^VO>:k4cm5Sd1W9Lj?i0
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd|
+Z26 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/DM.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 2 dm 0 22 SRRMz]oP9OX<K5N:mcDNb1
+l29
+L19
+Vj8e=XbVMEABDKjlbzb;@A0
+!s100 >_;hEfL8>H_ZzzzfWcdB?0
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Eimem
+Z27 w1769368661
+R2
+R3
+R4
+R0
+Z28 8imem.vhd
+Z29 Fimem.vhd
+l0
+L6
+VKCh2Y[dX@nK09G<LSUMe00
+!s100 N[WGA7^hPZIfTgEG^5OZh1
+R7
+33
+Z30 !s110 1769368926
+!i10b 1
+Z31 !s108 1769368926.000000
+Z32 !s90 -reportprogress|300|-2008|imem.vhd|
+Z33 !s107 imem.vhd|
+!i113 1
+Z34 o-2008
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 4 imem 0 22 KCh2Y[dX@nK09G<LSUMe00
+l73
+L21
+Vadfd>3=QdW=ALJ=JClg1N1
+!s100 >41KdCYf;7UA1;8f8iKMJ1
+R7
+33
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R34
+R13
+Eimmext
+R1
+R2
+R3
+R4
+R0
+Z35 8C:\Users\mhabb\Downloads\RISC-V\V2\ImmExt.vhd
+Z36 FC:\Users\mhabb\Downloads\RISC-V\V2\ImmExt.vhd
+l0
+L5
+VQoPIRZGZUGUY9L>GhAhJT0
+!s100 ;81:I`b>`]QRgB>[VdGIc2
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\mhabb\Downloads\RISC-V\V2\ImmExt.vhd|
+Z38 !s107 C:\Users\mhabb\Downloads\RISC-V\V2\ImmExt.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 immext 0 22 QoPIRZGZUGUY9L>GhAhJT0
+l16
+L13
+V]8emk1fQdh8S5MQi>kDnM1
+!s100 =RM1J5cKOD[ZHKXbScYaJ1
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Emux2to1
+R1
+R3
+R4
+R0
+Z39 8C:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd
+Z40 FC:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd
+l0
+L4
+Vf`njca1aic7zbeUAi`;680
+!s100 PgUzRklJI7kQf;RUg`@Fh0
+R7
+32
+R8
+!i10b 1
+R9
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd|
+Z42 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/Mux2to1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 7 mux2to1 0 22 f`njca1aic7zbeUAi`;680
+l17
+L16
+V;VE7=BW@:Cg7^QEZEJCH[2
+!s100 VMUE=TF:2=Y^6F_MK=Rhm3
+R7
+32
+R8
+!i10b 1
+R9
+R41
+R42
+!i113 1
+R12
+R13
+Epc
+Z43 w1769367779
+R2
+R3
+R4
+R0
+Z44 8C:\Users\mhabb\Downloads\RISC-V\V2\PC.vhd
+Z45 FC:\Users\mhabb\Downloads\RISC-V\V2\PC.vhd
+l0
+L5
+VA20QcD1?Ua3j8]d?Cl8TK1
+!s100 VUZG<J=U_GO71fb?9M_Zb3
+R7
+32
+R8
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\mhabb\Downloads\RISC-V\V2\PC.vhd|
+Z47 !s107 C:\Users\mhabb\Downloads\RISC-V\V2\PC.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 2 pc 0 22 A20QcD1?Ua3j8]d?Cl8TK1
+l18
+L16
+V>U4`7:iIzhYZMk?mUJaP63
+!s100 GJM<`49`nkLDIJN_@E07X3
+R7
+32
+R8
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13
+Eregisterfile
+R1
+R2
+R3
+R4
+R0
+Z48 8C:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd
+Z49 FC:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd
+l0
+L5
+V<>1efF@TMPbi0VMV_9K<R3
+!s100 K_8U<PcWbjNk=eCSeNUQU1
+R7
+32
+R8
+!i10b 1
+R9
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd|
+Z51 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/RegisterFile.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 12 registerfile 0 22 <>1efF@TMPbi0VMV_9K<R3
+l22
+L19
+V3M[dlEhGLfWWSH6cn?n2P2
+!s100 ;]Bm5h>;en2gb>R^BU8JJ2
+R7
+32
+R8
+!i10b 1
+R9
+R50
+R51
+!i113 1
+R12
+R13
+Eregistreinstruction
+Z52 w1769367804
+R2
+R3
+R4
+R0
+Z53 8C:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd
+Z54 FC:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd
+l0
+L5
+V;oVio^RzJ>f;H_Sm@BG8=0
+!s100 CjMXKi<822Y7QOk;39Tmb3
+R7
+32
+R8
+!i10b 1
+R9
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd|
+Z56 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/RegistreInstruction.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 19 registreinstruction 0 22 ;oVio^RzJ>f;H_Sm@BG8=0
+l17
+L15
+V>1o;QgDR_cVe:<aY3USnz2
+!s100 nm<[ekIHEl>P7gF@<N9fM3
+R7
+32
+R8
+!i10b 1
+R9
+R55
+R56
+!i113 1
+R12
+R13
+Eriscv_top_dm1
+Z57 w1769367417
+R2
+R3
+R4
+R0
+Z58 8C:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd
+Z59 FC:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd
+l0
+L5
+VhM2heW9ekiC0`^clM]6WH2
+!s100 ULb4BU:2dXlSQE72GPHLj1
+R7
+32
+R8
+!i10b 1
+R9
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd|
+Z61 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/RISCV_Top_DM1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 13 riscv_top_dm1 0 22 hM2heW9ekiC0`^clM]6WH2
+l179
+L12
+Vk<;EGzXdPY1;SZNG6aiRM3
+!s100 FRReMQ;B9YgggTdc=932I0
+R7
+32
+R8
+!i10b 1
+R9
+R60
+R61
+!i113 1
+R12
+R13
+Esm
+R1
+R2
+R3
+R4
+R0
+Z62 8C:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd
+Z63 FC:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd
+l0
+L5
+VQz>`mfZa5cm]]i[@CUoB;3
+!s100 UBacCL_k6CfYkIn;2ccQz1
+R7
+32
+R8
+!i10b 1
+R9
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd|
+Z65 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/SM.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 2 sm 0 22 Qz>`mfZa5cm]]i[@CUoB;3
+l16
+L15
+VI7n^V[bSoXMmmc63fCiTB1
+!s100 fdZXg=5ae6AnHRQ``XkMD2
+R7
+32
+R8
+!i10b 1
+R9
+R64
+R65
+!i113 1
+R12
+R13
+Etb_riscv_top_dm1
+R1
+R3
+R4
+R0
+Z66 8C:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd
+Z67 FC:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd
+l0
+L4
+VchOBe8HWcDT_k58`FfM9I1
+!s100 5fhaeAo;nn6OM?ln8;58P3
+R7
+32
+Z68 !s110 1769368702
+!i10b 1
+Z69 !s108 1769368702.000000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd|
+Z71 !s107 C:/Users/mhabb/Downloads/RISC-V/V2/tb_RISCV_Top_DM1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 16 tb_riscv_top_dm1 0 22 chOBe8HWcDT_k58`FfM9I1
+l21
+L7
+VU_blj^MT>OQ^9A7^?Z_Bg0
+!s100 QZmEV3cb`_AS`zgbZLY2S0
+R7
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R12
+R13
